@@ -1,0 +1,1 @@
+# TODO: the model class to train, embed the note data
